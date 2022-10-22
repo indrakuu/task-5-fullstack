@@ -1,2 +1,2 @@
 Virtual Internship Experience (Investree) - Fullstack - Indra Kurniawan
-https://github.com/indrakuu/task-5-fullstack.git
+https://github.com/indrakuu/task-5-fullstack
